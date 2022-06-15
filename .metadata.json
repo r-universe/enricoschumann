@@ -1,0 +1,30 @@
+[
+  {
+    "package": "BISdata",
+    "oncran": true
+  },
+  {
+    "package": "bundesbank",
+    "oncran": true
+  },
+  {
+    "package": "datetimeutils",
+    "oncran": true
+  },
+  {
+    "package": "NMOF",
+    "oncran": true
+  },
+  {
+    "package": "PMwR",
+    "oncran": true
+  },
+  {
+    "package": "textutils",
+    "oncran": true
+  },
+  {
+    "package": "tsdb",
+    "oncran": true
+  }
+]
