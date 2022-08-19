@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "neighbours",
+    "oncran": true
+  },
+  {
     "package": "NMOF",
     "oncran": true
   },
