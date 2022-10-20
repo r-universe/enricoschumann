@@ -20,10 +20,6 @@
     "oncran": true
   },
   {
-    "package": "PMwR",
-    "oncran": true
-  },
-  {
     "package": "textutils",
     "oncran": true
   },

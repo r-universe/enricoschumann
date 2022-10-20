@@ -28,11 +28,6 @@
 	url = https://github.com/enricoschumann/nmof
 	shallow = true
 	registered = true
-[submodule "PMwR"]
-	path = PMwR
-	url = https://github.com/enricoschumann/pmwr
-	shallow = true
-	registered = true
 [submodule "textutils"]
 	path = textutils
 	url = https://github.com/enricoschumann/textutils
