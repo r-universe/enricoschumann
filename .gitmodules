@@ -28,6 +28,16 @@
 	url = https://github.com/enricoschumann/nmof
 	shallow = true
 	registered = true
+[submodule "orgutils"]
+	path = orgutils
+	url = https://github.com/enricoschumann/orgutils
+	shallow = true
+	registered = true
+[submodule "password"]
+	path = password
+	url = https://github.com/enricoschumann/password
+	shallow = true
+	registered = true
 [submodule "textutils"]
 	path = textutils
 	url = https://github.com/enricoschumann/textutils

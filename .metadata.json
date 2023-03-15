@@ -20,6 +20,14 @@
     "oncran": true
   },
   {
+    "package": "orgutils",
+    "oncran": true
+  },
+  {
+    "package": "password",
+    "oncran": true
+  },
+  {
     "package": "textutils",
     "oncran": true
   },
