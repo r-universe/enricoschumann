@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "datetimeutils"]
-	path = datetimeutils
-	url = https://github.com/enricoschumann/datetimeutils
+[submodule "BISdata"]
+	path = BISdata
+	url = https://github.com/enricoschumann/bisdata
 	shallow = true
 	registered = true
 [submodule "bundesbank"]
@@ -13,14 +13,19 @@
 	url = https://github.com/enricoschumann/bundesbank
 	shallow = true
 	registered = true
+[submodule "datetimeutils"]
+	path = datetimeutils
+	url = https://github.com/enricoschumann/datetimeutils
+	shallow = true
+	registered = true
+[submodule "neighbours"]
+	path = neighbours
+	url = https://github.com/enricoschumann/neighbours
+	shallow = true
+	registered = true
 [submodule "NMOF"]
 	path = NMOF
 	url = https://github.com/enricoschumann/nmof
-	shallow = true
-	registered = true
-[submodule "BISdata"]
-	path = BISdata
-	url = https://github.com/enricoschumann/bisdata
 	shallow = true
 	registered = true
 [submodule "textutils"]
@@ -31,10 +36,5 @@
 [submodule "tsdb"]
 	path = tsdb
 	url = https://github.com/enricoschumann/tsdb
-	shallow = true
-	registered = true
-[submodule "neighbours"]
-	path = neighbours
-	url = https://github.com/enricoschumann/neighbours
 	shallow = true
 	registered = true

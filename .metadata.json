@@ -1,6 +1,6 @@
 [
   {
-    "package": "datetimeutils",
+    "package": "BISdata",
     "oncran": true
   },
   {
@@ -8,11 +8,15 @@
     "oncran": true
   },
   {
-    "package": "NMOF",
+    "package": "datetimeutils",
     "oncran": true
   },
   {
-    "package": "BISdata",
+    "package": "neighbours",
+    "oncran": true
+  },
+  {
+    "package": "NMOF",
     "oncran": true
   },
   {
@@ -21,10 +25,6 @@
   },
   {
     "package": "tsdb",
-    "oncran": true
-  },
-  {
-    "package": "neighbours",
     "oncran": true
   }
 ]
