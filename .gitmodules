@@ -38,6 +38,11 @@
 	url = https://github.com/enricoschumann/password
 	shallow = true
 	registered = true
+[submodule "PMwR"]
+	path = PMwR
+	url = https://gitlab.com/enricoschumann/pmwr
+	shallow = true
+	registered = true
 [submodule "textutils"]
 	path = textutils
 	url = https://github.com/enricoschumann/textutils
