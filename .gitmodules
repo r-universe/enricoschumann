@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "BISdata"]
 	path = BISdata
 	url = https://github.com/enricoschumann/bisdata
-	shallow = true
-	registered = true
 [submodule "bundesbank"]
 	path = bundesbank
 	url = https://github.com/enricoschumann/bundesbank
-	shallow = true
-	registered = true
 [submodule "datetimeutils"]
 	path = datetimeutils
 	url = https://github.com/enricoschumann/datetimeutils
-	shallow = true
-	registered = true
 [submodule "neighbours"]
 	path = neighbours
 	url = https://github.com/enricoschumann/neighbours
-	shallow = true
-	registered = true
 [submodule "NMOF"]
 	path = NMOF
 	url = https://github.com/enricoschumann/nmof
-	shallow = true
-	registered = true
 [submodule "orgutils"]
 	path = orgutils
 	url = https://github.com/enricoschumann/orgutils
-	shallow = true
-	registered = true
 [submodule "password"]
 	path = password
 	url = https://github.com/enricoschumann/password
-	shallow = true
-	registered = true
 [submodule "PMwR"]
 	path = PMwR
 	url = https://gitlab.com/enricoschumann/pmwr
-	shallow = true
-	registered = true
 [submodule "textutils"]
 	path = textutils
 	url = https://github.com/enricoschumann/textutils
-	shallow = true
-	registered = true
 [submodule "tsdb"]
 	path = tsdb
 	url = https://github.com/enricoschumann/tsdb
-	shallow = true
-	registered = true
