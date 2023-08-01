@@ -5,6 +5,12 @@
 [submodule "BISdata"]
 	path = BISdata
 	url = https://github.com/enricoschumann/bisdata
+[submodule "NMOF"]
+	path = NMOF
+	url = https://github.com/enricoschumann/nmof
+[submodule "PMwR"]
+	path = PMwR
+	url = https://gitlab.com/enricoschumann/pmwr
 [submodule "bundesbank"]
 	path = bundesbank
 	url = https://github.com/enricoschumann/bundesbank
@@ -14,18 +20,12 @@
 [submodule "neighbours"]
 	path = neighbours
 	url = https://github.com/enricoschumann/neighbours
-[submodule "NMOF"]
-	path = NMOF
-	url = https://github.com/enricoschumann/nmof
 [submodule "orgutils"]
 	path = orgutils
 	url = https://github.com/enricoschumann/orgutils
 [submodule "password"]
 	path = password
 	url = https://github.com/enricoschumann/password
-[submodule "PMwR"]
-	path = PMwR
-	url = https://gitlab.com/enricoschumann/pmwr
 [submodule "textutils"]
 	path = textutils
 	url = https://github.com/enricoschumann/textutils
