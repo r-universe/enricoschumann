@@ -13,7 +13,7 @@
 	url = https://gitlab.com/enricoschumann/pmwr
 [submodule "SNBdata"]
 	path = SNBdata
-	url = https://github.com/cran/SNBdata
+	url = https://github.com/enricoschumann/snbdata
 [submodule "SNSFdatasets"]
 	path = SNSFdatasets
 	url = https://github.com/enricoschumann/snsfdatasets
