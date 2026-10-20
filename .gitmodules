@@ -10,7 +10,7 @@
 	url = https://github.com/enricoschumann/nmof
 [submodule "PMwR"]
 	path = PMwR
-	url = https://gitlab.com/enricoschumann/pmwr
+	url = https://github.com/enricoschumann/pmwr
 [submodule "SNBdata"]
 	path = SNBdata
 	url = https://github.com/enricoschumann/snbdata
